@@ -1,4 +1,5 @@
 # firstpirojkt
+
 This is my first repository .
 <br>
-author -utkarsh srivastava
+author -utkarsh srivastava(from computer science)
